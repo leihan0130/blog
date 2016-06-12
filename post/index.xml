@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 晗胖胖的博客</title>
+    <link>https://leihan0130.github.io/blog/post/</link>
+    <description>Recent content in Posts on 晗胖胖的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 25 May 2016 14:51:12 +0800</lastBuildDate>
+    <atom:link href="https://leihan0130.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://leihan0130.github.io/blog/post/first/</link>
+      <pubDate>Wed, 25 May 2016 14:51:12 +0800</pubDate>
+      
+      <guid>https://leihan0130.github.io/blog/post/first/</guid>
+      <description>&lt;p&gt;第一篇博客！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
