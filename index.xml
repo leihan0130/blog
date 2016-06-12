@@ -1,13 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>晗胖胖的博客</title>
+    <title>晗闹闹爱生活</title>
     <link>https://leihan0130.github.io/blog/</link>
-    <description>Recent content on 晗胖胖的博客</description>
+    <description>Recent content on 晗闹闹爱生活</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 May 2016 14:51:21 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 May 2016 14:51:12 +0800</lastBuildDate>
     <atom:link href="https://leihan0130.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>关于网站运营策划的一些想法</title>
+      <link>https://leihan0130.github.io/blog/post/first/</link>
+      <pubDate>Tue, 31 May 2016 14:51:12 +0800</pubDate>
+      
+      <guid>https://leihan0130.github.io/blog/post/first/</guid>
+      <description>
+
+&lt;p&gt;我喜欢讲干货，说关键。这里用提问题的形式梳理思路，希望所有码的字都不是废话，加油！
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;一切都是围绕用户:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;一切都是围绕用户&lt;/h2&gt;
+
+&lt;p&gt;&lt;font color=ff0000&gt;&lt;strong&gt;目标用户的寻找与分析，是运营的源头：&lt;/strong&gt;&lt;font color=000000&gt;&lt;br&gt;
+1.目标人群范围的定义，是什么样的？&lt;br&gt;
+2.他们在什么地方，习惯是什么，用户画像先拿出来&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=ff0000&gt;&lt;strong&gt;引流——留存——转化——优化&lt;/strong&gt;&lt;br&gt;&lt;font color=000000&gt;&lt;/p&gt;
+
+&lt;p&gt;1.引流：&lt;br&gt;
+用户的兴趣点有哪些，如何引诱他们？软文，活动,or SEO?&lt;br&gt;
+把用户引到哪里去？&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;2.留存:&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;1）承载：无论是静态的浏览，还是互动的交流，思考提供怎样的产品或服务可以满足用户&lt;br&gt;
+2）维护：内容的更新频率一定要把握适当的节奏；更新的内容要恰到好处；客服接待这些细节也很关键&lt;br&gt;
+3）刺激：通过偶尔的活动来个小高潮，维持老关系，激发新用户，是必要的；&lt;br&gt;
+4）预算：投入产出比需要牢牢掌控，把每一分钱都用充分利用，也有很多巧妙的形势，不需要花钱也可能获得较大收益，比如借势&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;3.转化：&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;1）转化目标有哪些？注册量、下载量，像我的公司还有设备询盘量、销售量等&lt;br&gt;
+2）销售技巧，结合个性痛点需求，制定有针对性的话术&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;4.优化：&lt;br&gt;
+数据驱动决策，通过数据分析，指引更好的策略：&lt;br&gt;
+1）网站数据指标：PV、UV、来源、热点图、留存率、转化率、跳出率；&lt;br&gt;
+2)销售数据指标：购买周期、淡旺季、价位偏好、产品特征偏好等&amp;hellip;&lt;br&gt;
+3）投资回报率：利润/投入*100%&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;通过数据分析查找问题，拿出更好的解决方案，循环往复，才是运营流程的闭环。&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;运营方案需要能落地执行-能提升转化率:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;运营方案需要能落地执行、能提升转化率&lt;/h2&gt;
+
+&lt;p&gt;&lt;font color=ff0000&gt;&lt;strong&gt;给自己的网站做一个诊断，宏观层面问几个问题：&lt;/strong&gt;&lt;br&gt;&lt;font color=000000&gt;
+1.访问量是多少？有哪些促成，如何再提升？&lt;br&gt;
+2.跳出率是多少？哪些原因，可否再降低？&lt;br&gt;
+3.转化率如何？哪些可转化、哪些容易流失？&lt;br&gt;
+4.数据分析如何做的，有没有实际指导意义？&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=ff0000&gt;&lt;strong&gt;再深入一点进行分析，可以看这几个方面：&lt;/strong&gt;&lt;br&gt;&lt;font color=000000&gt;
+1.网站自身的优缺点有哪些，运营的长短板都是什么？&lt;br&gt;
+2.竞争对手、潜在对手分析：&lt;br&gt;
+1）通过搜索关键词寻找竞品对象；通过对方的友情链接再进一步寻找相关同行；&lt;br&gt;
+2）假扮客户，与对方客服聊天，掌握一些线索&lt;br&gt;
+3.网站在搜索引擎中的权重怎样；有哪些广告渠道；有哪些可拓展的商务合作伙伴&lt;br&gt;
+4.新媒体账号的运营情况如何，浏览量情况&lt;br&gt;
+5.后期运营方向和侧重点是什么？万事都需要总结，不然都将归于0.&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;恰到好处的存在感-积累口碑:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;恰到好处的存在感、积累口碑&lt;/h2&gt;
+
+&lt;p&gt;&lt;font color=ff0000&gt;&lt;strong&gt;关于推广营销&lt;/strong&gt;&lt;br&gt;&lt;font color=000000&gt;&lt;/p&gt;
+
+&lt;p&gt;目标有2个：&lt;br&gt;
+1）增加曝光量、吸睛度&lt;br&gt;
+2）要精准用户，越精准越好&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;具体手段比如：&lt;br&gt;
+1）硬广：给每个广告增加跟踪代码，监测每个效果好坏&lt;br&gt;
+2）软文：跟踪对方平台的点击浏览量，从平台的权重、发文数量统计；对锚文本加监测代码&lt;br&gt;
+3）SEM：统计关键词的点击率、时间点、转化率、投资回报率；用户对图片的需求、闪投样式几种等&lt;br&gt;
+4）SEO：通过关键词排名和网站搜索引擎带来的流量变化趋势判断效果&lt;br&gt;
+5)新媒体：微信公众号、微博粉丝通、各种合作互推等，结合数据反馈：展现量、点击量、评论、点赞、粉丝、转化等判断效果&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=ff0000&gt;&lt;strong&gt;关于活动策划&lt;/strong&gt;&lt;br&gt;&lt;font color=000000&gt;&lt;/p&gt;
+
+&lt;p&gt;目的有几个：&lt;br&gt;
+1）做品牌、创口碑&lt;br&gt;
+2）接触用户，线下活动可增强信任度，从虚拟到face to face&lt;br&gt;
+3）爆发性拉新、促活，转化到网站&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;思考包括：&lt;br&gt;
+1）曝光程度、影响范围&lt;br&gt;
+2）传播程度，转发分享数&lt;br&gt;
+3）活动参与情况，比如报名人数、软件下载量、公众号关注量，我的公司还有设备成交量等&lt;br&gt;
+4）活动后续，用户反馈，投诉情况等，总结报告中需要看到以上的各项数据，及后续优化建议&lt;br&gt;
+5）下次活动的预告同时也要投射给用户&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;活动只是手段，重要的是把用户转化到网站上，沉淀下来，成为网站忠粉~~ &lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;以上是具化到运营执行层上的一些思考，没有高大上的理论，都是落地的、脚踏实地的方法。个人认为，运营是连接用户与产品的关键，是将产品传递给用户的纽带。&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;以上内容是结合各大互联网运营平台的博主心得，以及自己公司网站运营近一年的情况，还有自己的一些体会，梳理而来，谢谢阅读。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>about</title>
@@ -19,17 +118,16 @@
 
 &lt;h1 id=&#34;关于作者:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;关于作者&lt;/h1&gt;
 
-&lt;p&gt;女，爱吃火锅！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://leihan0130.github.io/blog/post/first/</link>
-      <pubDate>Wed, 25 May 2016 14:51:12 +0800</pubDate>
-      
-      <guid>https://leihan0130.github.io/blog/post/first/</guid>
-      <description>&lt;p&gt;第一篇博客！&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;90后元气少女，脑洞略大的典型水瓶座博主~  &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;喜欢围观IT界所有软硬件产品、各种黑科技。&lt;/p&gt;
+
+&lt;p&gt;互联网运营，用户体验设计也喜欢思考。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+旅行约拍、电影、汽车，是业余最爱^_^&lt;/p&gt;
 </description>
     </item>
     
