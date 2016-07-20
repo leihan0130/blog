@@ -2,37 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/%E2%80%9Chttps:/leihan0130.github.io/blog/%E2%80%9D/</loc>
+    <loc>https://leihan0130.github.io/blog/</loc>
+    <lastmod>2016-07-07T18:57:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leihan0130.github.io/blog/post/content0706/</loc>
     <lastmod>2016-07-07T18:57:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/%E2%80%9Chttps:/leihan0130.github.io/blog/%E2%80%9D/post/content0706/</loc>
-    <lastmod>2016-07-07T18:57:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/%E2%80%9Chttps:/leihan0130.github.io/blog/%E2%80%9D/post/travel0622/</loc>
+    <loc>https://leihan0130.github.io/blog/post/travel0622/</loc>
     <lastmod>2016-06-22T10:45:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/%E2%80%9Chttps:/leihan0130.github.io/blog/%E2%80%9D/post/maker%20education0614/</loc>
+    <loc>https://leihan0130.github.io/blog/post/maker%20education0614/</loc>
     <lastmod>2016-06-14T10:45:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/%E2%80%9Chttps:/leihan0130.github.io/blog/%E2%80%9D/post/register0613/</loc>
+    <loc>https://leihan0130.github.io/blog/post/register0613/</loc>
     <lastmod>2016-06-13T10:45:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/%E2%80%9Chttps:/leihan0130.github.io/blog/%E2%80%9D/post/first/</loc>
+    <loc>https://leihan0130.github.io/blog/post/first/</loc>
     <lastmod>2016-05-31T14:51:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/%E2%80%9Chttps:/leihan0130.github.io/blog/%E2%80%9D/about/</loc>
+    <loc>https://leihan0130.github.io/blog/about/</loc>
     <lastmod>2016-05-25T14:51:21+08:00</lastmod>
   </url>
   
